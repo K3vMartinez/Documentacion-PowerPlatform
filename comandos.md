@@ -37,7 +37,7 @@ nfBrandingLight = RGBA(3; 131; 135; 1);;
 nfBrandingDark = ColorValue("#334A5F");;
 ```
 
-![img](./img/VariableGlobal01.png)
+![img](./img/variableGlobal01.png)
 
 > Para resetear o reiniciar el texto de un input
 
