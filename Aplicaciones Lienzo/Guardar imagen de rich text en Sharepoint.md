@@ -62,3 +62,31 @@ Al campo del formulario referente a la **Imagen** le establecemos el contenido d
 Ahora vamos a probar la aplicación. 
 
 ![img](./img/richText10.png)
+
+
+![img](./img/richText11.png)
+
+
+![img](./img/richText12.png)
+
+ 
+
+Comprobamos que se han guardado los registros correctamente en la **lista** de **Sharepoint**. 
+
+ 
+![img](./img/richText13.png)
+
+## ¡¡¡ IMPORTANTE !!! 
+Si insertamos texto en el **Rich Text** se va a ignorar y no aparecerá ni se almacenará en ningún sitio. También es importante saber que si ponermos más de un screenshot no se guardarán, sólo se guarda el primero porque esta imagen se guardará en un columna del **Sharepoint**, por lo que sólo se podría guardar una. 
+
+Además es importante saber que las imágenes se guardarán con un **ID único**: 
+ 
+
+![img](./img/richText14.png)
+
+Todas estas imágenes se van a guardar en una **Biblioteca de Archivos** local por defecto, que estará ubicado dentro del sitio en **Contenido del Sitio > Activos del Sitio > Lists**. 
+
+ 
+Aquí podremos encontrar una carpeta con un nombre muy extraño donde se almacenarán todas las imágenes que se suben al crear un registro en el **Sharepoint**. 
+
+![img](./img/richText15.png)
